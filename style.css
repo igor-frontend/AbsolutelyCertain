@@ -75,3 +75,38 @@ footer{
     display:flex;
     justify-content:center;
 }
+@media screen and (max-width: 1408px){
+    h1{font-size:400%;};
+    
+    
+}
+@media screen and (max-width: 1134px){
+    h1{font-size:350%;};
+    
+    
+}
+@media screen and (max-width: 978px){
+    h1{font-size:300%;};
+    
+    
+}
+@media screen and (max-width: 840px){
+    h1{font-size:250%;};
+    
+    
+}
+@media screen and (max-width: 720px){
+    h1{font-size:200%;};
+    
+    
+}
+@media screen and (max-width: 565px){
+    h1{font-size:150%;};
+    
+    
+}
+@media screen and (max-width: 432px){
+    h1{font-size:140%;};
+    
+    
+}
